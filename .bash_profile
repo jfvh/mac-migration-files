@@ -75,6 +75,10 @@ function prompt {
   export PS2=" | → $RESETCOLOR"
 }
 
+prompt
+
 export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home
 
 export WEBSHOP_HOME="$HOME/projects/webshop"
+
+
