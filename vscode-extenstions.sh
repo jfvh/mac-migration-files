@@ -1,0 +1,25 @@
+code --list-extensions | xargs -L 1 echo code --install-extension
+code --install-extension aaron-bond.better-comments
+code --install-extension andrejunges.Handlebars
+code --install-extension chaliy.handlebars-preview
+code --install-extension CoenraadS.bracket-pair-colorizer
+code --install-extension dbaeumer.vscode-eslint
+code --install-extension eamodio.gitlens
+code --install-extension eg2.tslint
+code --install-extension esbenp.prettier-vscode
+code --install-extension Gruntfuggly.todo-tree
+code --install-extension infeng.vscode-react-typescript
+code --install-extension kisstkondoros.vscode-codemetrics
+code --install-extension ms-azuretools.vscode-docker
+code --install-extension ms-python.python
+code --install-extension msjsdiag.debugger-for-chrome
+code --install-extension NuclleaR.vscode-extension-auto-import
+code --install-extension shd101wyy.markdown-preview-enhanced
+code --install-extension shidhincr.theme-dracula-italics
+code --install-extension SimonSiefke.svg-preview
+code --install-extension softwaredotcom.swdc-vscode
+code --install-extension TomiTurtiainen.js-complexity-analysis
+code --install-extension VisualStudioExptTeam.vscodeintellicode
+code --install-extension waderyan.gitblame
+code --install-extension wangtao0101.vscode-js-import
+code --install-extension xabikos.ReactSnippets
