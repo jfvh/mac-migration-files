@@ -1,0 +1,35 @@
+{
+  "editor.scrollBeyondLastLine": false,
+  "editor.detectIndentation": false,
+  "editor.insertSpaces": true,
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "files.associations": {
+    "*.template": "handlebars",
+    "*.schema": "json",
+    "*.script": "javascript"
+  },
+  "window.zoomLevel": -1,
+  "gitlens.advanced.messages": {
+    "suppressShowKeyBindingsNotice": true
+  },
+  "workbench.startupEditor": "welcomePage",
+  "workbench.editor.enablePreview": false,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "workbench.colorTheme": "Dracula Italics",
+  "search.useReplacePreview": false,
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "complexityAnalysis.exclude": [
+    "**/node_modules/**"
+  ],
+  "complexityAnalysis.include": [
+    "**/src/**/*.js"
+  ]
+}
